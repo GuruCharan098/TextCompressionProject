@@ -1,0 +1,2 @@
+# TextCompressionProject
+Text Compression Project
