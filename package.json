@@ -1,0 +1,15 @@
+{
+  "name": "textcompressionproject",
+  "version": "1.0.0",
+  "description": "Text Compression Project",
+  "main": "scripts/runIndexer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/runIndexer.js",
+    "test": "node test/testUtils.js"
+  },
+  "author": "Gurucharandas",
+  "license": "ISC"
+}
+
+
